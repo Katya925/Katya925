@@ -1,4 +1,6 @@
-![Perfil profesional de Katya Márquez] (banner-profesional.png)
+<p align='center'>
+  <img src="banner-profesional.png" alt="Perfil profesional de Katya Márquez width="100%">
+</p>
 
 # Perfil profesional
 
