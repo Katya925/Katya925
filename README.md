@@ -1,3 +1,5 @@
+![Perfil profesional de Katya Márquez] (banner-profesional.png)
+
 # Perfil profesional
 
 ## Artificial Intelligence Senior Manager II
